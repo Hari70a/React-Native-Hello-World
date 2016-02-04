@@ -20,3 +20,23 @@
 
 * The following output will be displayed while using the code(index.android.js) 
 
+###Run an android application
+
+   * Please go through this [link](https://github.com/Hari70a/React-native/wiki) for installation.Then proceed with the following steps
+   * Create a folder named react-native projects  in your drives except c: drive where you can create your own projects like AwesomeProject(a sample hello world project).
+
+    *  Go to your project.
+    
+               $ cd your project-name(eg. cd f:/awesomeproject)
+    
+    *  Enter the command for initialization of your project.
+    
+             $ react-native init AwesomeProject
+
+    * Then start running your android emulator or connect to a device.  
+
+    *  Start your react-native packager.
+    
+            $ react-native start
+
+
