@@ -10,4 +10,8 @@
       
 ### Installation and Setup:
       
-      For the installation of react-native and its accessories , please go through [here](https://github.com/Hari70a/React-native/wiki)
+* For the installation of react-native and its accessories , please go through [here](https://github.com/Hari70a/React-native/wiki)
+
+* Later you  check the [documentation](https://facebook.github.io/react-native/docs/tutorial.html#content) of facebook to  understand the components specifically.
+ 
+* 
