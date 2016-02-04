@@ -4,7 +4,7 @@
 
 * After  the successful completion of installation , please have a look at this [link](http://www.toptal.com/ios/cold-dive-into-react-native-a-beginners-tutorial)
        
-* The above [link] will provide you a better understanding of a basic react application.
+* The above [link](http://www.toptal.com/ios/cold-dive-into-react-native-a-beginners-tutorial) will provide you a better understanding of a basic react application.
 
 * Thereafter looks to go deep into the react-native application.
       
