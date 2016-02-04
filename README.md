@@ -12,6 +12,8 @@
       
 * For the installation of react-native and its accessories , please go through [here](https://github.com/Hari70a/React-native/wiki)
 
-* Later you  check the [documentation](https://facebook.github.io/react-native/docs/tutorial.html#content) of facebook to  understand the components specifically.
+* Later you  check the [documentation](https://facebook.github.io/react-native/docs/tutorial.html#content) of facebook to  understand its components specifically.
  
-* 
+###HelloWorld application
+
+* The code provided in index.android.js will give you an opportunity to learn how to display a welcome message.
