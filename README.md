@@ -18,4 +18,4 @@
 
 * The code provided in index.android.js will give you an opportunity to learn how to display a welcome message.
 
-* The following output will be displayed while using thecod(index.android.js) 
+* The following output will be displayed while using the code(index.android.js) 
