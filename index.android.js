@@ -11,7 +11,7 @@ import React, {
   View
 } from 'react-native';
 
-class VirtualReality extends Component {
+class HelloWorld extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -48,4 +48,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('VirtualReality', () => VirtualReality);
+AppRegistry.registerComponent('Helloworld', () => Helloworld);
