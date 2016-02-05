@@ -38,5 +38,6 @@
     *  Start your react-native packager.
     
             $ react-native start
+###Output Screenshot
 
 
