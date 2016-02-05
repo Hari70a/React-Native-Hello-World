@@ -40,4 +40,6 @@
             $ react-native start
 ###Output Screenshot
 
+![GitHub Logo](output.png)
+
 
